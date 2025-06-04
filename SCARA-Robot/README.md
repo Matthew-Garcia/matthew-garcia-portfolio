@@ -27,12 +27,13 @@ This project showcases a SCARA (Selective Compliance Articulated Robot Arm) I bu
 ---
 
 ## Media
-![SCARA Arm](../assets/scara-robot/scara-demo.gif)
+![SCARA Robot Arm](../docs/assets/scara-robot/SCARA-Robot-Arm.gif)
+
 ![Simulation](../assets/scara-robot/ros2-sim.png)
 
 ---
 
-## Files (coming soon)
+## Files 
 - `/code/` – Python control code
 - `/models/` – 3D models or URDFs
 - `/docs/` – Any additional design documents

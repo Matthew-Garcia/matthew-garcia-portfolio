@@ -35,7 +35,7 @@ This project showcases a SCARA (Selective Compliance Articulated Robot Arm) I bu
 
 ## Files 
 - `/code/` – Python control code
-- model: [Download SCARA Robot 3D Model (.STEP)](../docs/assets/scara-robot/SCARA-Robot-3D-Model.STEP)
+- model: [Download SCARA Robot 3D Model (.STEP)](assets/scara-robot/SCARA-Robot-3D-Model.STEP)
 
 - `/docs/` – Any additional design documents
 

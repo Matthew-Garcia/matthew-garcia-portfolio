@@ -4,45 +4,6 @@ Welcome to my GitHub portfolio! I’m a senior Computer Engineering student at t
 
 ---
 
-## 🎓 Education
-
-**University of Houston–Clear Lake**  
-*Bachelor of Science in Computer Engineering*  
-2022 – 2025  
-GPA: 3.3 / 4.0  
-
-**Lee College**  
-*Associate of Science in Pre-Engineering*  
-*Associate of Arts in General Studies*  
-2019 – 2021
-
----
-
-## 💼 Work Experience
-
-**IT Specialist & Embedded Systems Technician**  
-*Pasadena Auto Service – Pasadena, TX*  
-2021 – 2025  
-- Diagnosed and repaired vehicle electronics using diagnostic tools and embedded systems.
-- Managed the company’s IT network and maintained digital infrastructure.
-- Updated calibration tools for new vehicle models using CAN protocols.
-
-**IT Asset Support Technician**  
-*Lee College – Baytown, TX*  
-2019 – 2021  
-- Managed over 500 IT assets across campus locations.
-- Deployed and imaged computers for labs and classrooms.
-- Provided Tier 1 hardware and network support for staff and faculty.
-
-**Mentorship Intern – Systems & Aeronautical Engineering**  
-*FlightSafety International – Houston, TX*  
-2021  
-- Shadowed a Senior Systems Engineer through the Puente Mentoring Program.
-- Assisted in navigation and flight simulation system design.
-- Built foundational skills in systems integration and aerospace QA.
-
----
-
 ## 🔧 Featured Projects
 
 ### 🤖 SCARA Robot Pick-and-Place System
@@ -79,6 +40,45 @@ GPA: 3.3 / 4.0
 - Modular, sensor-integrated vertical farming system with IoT controls.
 - Designed for scalable smart agriculture in home or classroom settings.
 - [Project Folder →](./Hydroponic-Tower)
+
+---
+
+## 🎓 Education
+
+**University of Houston–Clear Lake**  
+*Bachelor of Science in Computer Engineering*  
+2022 – 2025  
+GPA: 3.3 / 4.0  
+
+**Lee College**  
+*Associate of Science in Pre-Engineering*  
+*Associate of Arts in General Studies*  
+2019 – 2021
+
+---
+
+## 💼 Work Experience
+
+**IT Specialist & Embedded Systems Technician**  
+*Pasadena Auto Service – Pasadena, TX*  
+2021 – 2025  
+- Diagnosed and repaired vehicle electronics using diagnostic tools and embedded systems.
+- Managed the company’s IT network and maintained digital infrastructure.
+- Updated calibration tools for new vehicle models using CAN protocols.
+
+**IT Asset Support Technician**  
+*Lee College – Baytown, TX*  
+2019 – 2021  
+- Managed over 500 IT assets across campus locations.
+- Deployed and imaged computers for labs and classrooms.
+- Provided Tier 1 hardware and network support for staff and faculty.
+
+**Mentorship Intern – Systems & Aeronautical Engineering**  
+*FlightSafety International – Houston, TX*  
+2021  
+- Shadowed a Senior Systems Engineer through the Puente Mentoring Program.
+- Assisted in navigation and flight simulation system design.
+- Built foundational skills in systems integration and aerospace QA.
 
 ---
 

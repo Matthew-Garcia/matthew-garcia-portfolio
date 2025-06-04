@@ -1,9 +1,10 @@
 title: Matthew Garcia Portfolio
+logo: docs/assets/Headshot_Circle.png
 description: Senior Computer Engineering student with a focus on robotics, embedded systems, and IT. This portfolio showcases my academic and personal engineering projects.
 baseurl: "" # Leave blank unless using a subpath
 url: "https://matthew-garcia.github.io"
 
-theme: minima # You can change this to another Jekyll theme
+theme: minima
 markdown: kramdown
 highlighter: rouge
 

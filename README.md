@@ -27,6 +27,7 @@ Welcome to my GitHub portfolio! I’m a senior Computer Engineering student at t
 ### LiDARBot – Autonomous Mobile Robot
 - Designed a 2D LiDAR-based mobile robot for mapping and navigation.
 - Integrated ROS2 for SLAM, obstacle avoidance, and autonomous behavior.
+
   [Project Folder →](./LiDARBot)
 
 ---

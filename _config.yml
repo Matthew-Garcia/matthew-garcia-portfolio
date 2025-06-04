@@ -4,7 +4,7 @@ description: Senior Computer Engineering student with a focus on robotics, embed
 baseurl: "" # Leave blank unless using a subpath
 url: "https://matthew-garcia.github.io"
 
-theme: Minimal
+theme: jekyll-theme-minimal
 markdown: kramdown
 highlighter: rouge
 

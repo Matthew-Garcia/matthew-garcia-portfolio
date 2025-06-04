@@ -1,12 +1,12 @@
-# 👨‍💻 Matthew Garcia – Engineering Portfolio
+# Matthew Garcia Computer Engineering Portfolio
 
 Welcome to my GitHub portfolio! I’m a senior Computer Engineering student at the University of Houston–Clear Lake with a passion for embedded systems, robotics, and real-time computing. This repository showcases my academic and personal engineering projects that bridge software and hardware.
 
 ---
 
-## 🔧 Featured Projects
+## Projects
 
-### 🤖 SCARA Robot Pick-and-Place System
+### SCARA Robot Pick-and-Place System
 - Built and programmed a functional SCARA robot for precision automation.
 - Developed real-time control with PID loops and inverse kinematics using Python.
 - Simulated and calibrated in ROS2 + Gazebo with 3D-printed components.
@@ -14,7 +14,7 @@ Welcome to my GitHub portfolio! I’m a senior Computer Engineering student at t
 
 ---
 
-### 🐶 Smart Bowl – Autonomous Pet Feeding System
+### Smart Bowl – Autonomous Pet Feeding System
 - Bluetooth-controlled Arduino-based pet feeder with custom Android/iOS apps.
 - Designed 3D housing and control system with precision motor control.
 - Achieved food dispensing accuracy within 1.95% error.
@@ -22,28 +22,28 @@ Welcome to my GitHub portfolio! I’m a senior Computer Engineering student at t
 
 ---
 
-### 🚗 LiDARBot – Autonomous Mobile Robot
+### LiDARBot – Autonomous Mobile Robot
 - Designed a 2D LiDAR-based mobile robot for mapping and navigation.
 - Integrated ROS2 for SLAM, obstacle avoidance, and autonomous behavior.
 - [Project Folder →](./LiDARBot)
 
 ---
 
-### 🧱 Retro Arcade Bartop
+### Retro Arcade Bartop
 - Built a custom retro gaming cabinet with joystick interface and emulation.
 - Integrated software and 3D hardware design for a plug-and-play system.
 - [Project Folder →](./Arcade-Bartop)
 
 ---
 
-### 🌱 Smart IoT Hydroponic Tower
+### Smart IoT Hydroponic Tower
 - Modular, sensor-integrated vertical farming system with IoT controls.
 - Designed for scalable smart agriculture in home or classroom settings.
 - [Project Folder →](./Hydroponic-Tower)
 
 ---
 
-## 🎓 Education
+## Education
 
 **University of Houston–Clear Lake**  
 *Bachelor of Science in Computer Engineering*  
@@ -57,7 +57,7 @@ GPA: 3.3 / 4.0
 
 ---
 
-## 💼 Work Experience
+## Work Experience
 
 **IT Specialist & Embedded Systems Technician**  
 *Pasadena Auto Service – Pasadena, TX*  
@@ -82,7 +82,7 @@ GPA: 3.3 / 4.0
 
 ---
 
-## 🛠️ Skills & Technologies
+## Skills & Technologies
 
 - **Languages:** C/C++, Python, VHDL, Verilog, Assembly
 - **Tools:** Git, Linux, STM32, Arduino, ROS2, Gazebo, Quartus, Vivado
@@ -91,7 +91,7 @@ GPA: 3.3 / 4.0
 
 ---
 
-## 📫 Contact
+## Contact
 
 - **Email:** [garciamatthew176@gmail.com](mailto:garciamatthew176@gmail.com)
 - **LinkedIn:** [linkedin.com/in/matthew-garcia-165634195](https://linkedin.com/in/matthew-garcia-165634195)

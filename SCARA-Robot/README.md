@@ -28,7 +28,7 @@ This project showcases a SCARA (Selective Compliance Articulated Robot Arm) I bu
 
 ## Media
 ![SCARA Robot Arm](../docs/assets/scara-robot/SCARA-Robot-Arm.gif)
-
+![SCARA Robot Arm](../docs/assets/scara-robot/SCARA-robots.png)
 
 
 ---

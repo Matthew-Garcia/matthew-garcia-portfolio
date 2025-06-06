@@ -1,4 +1,4 @@
-# Matthew Garcia Computer Engineering Portfolio
+Computer Engineering Portfolio
 
 Welcome to my GitHub portfolio! I’m a senior Computer Engineering student at the University of Houston–Clear Lake with a passion for embedded systems, robotics, and real-time computing. This repository showcases my academic and personal engineering projects that bridge software and hardware.
 
